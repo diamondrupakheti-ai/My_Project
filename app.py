@@ -65,7 +65,7 @@ FILES = {
 }
 
 DEFAULTS = {
-    "users": {"admin": {"password": "admin123", "role": "admin", "attempts": 0, "blocked": False, "name": "Administrator"}},
+    "users": {"admin": {"password": "hello@", "role": "admin", "attempts": 0, "blocked": False, "name": "Administrator"}},
     "lecturers": {},
     "exam_personnel": {},
     "subjects": {},
