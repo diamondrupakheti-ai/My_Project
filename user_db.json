@@ -1,0 +1,9 @@
+{
+  "admin": {
+    "password": "admin123",
+    "role": "admin",
+    "attempts": 0,
+    "blocked": false,
+    "name": "Administrator"
+  }
+}
